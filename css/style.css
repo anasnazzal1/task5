@@ -1,0 +1,63 @@
+
+.img-prodact {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 0px;
+}
+.h3-pro{
+    margin: 0px;
+   
+}
+.f {
+    float: left;
+    height: 21px;
+    margin-left: 20px;
+}
+.prodact {
+    width: fit-content;
+    border-radius: 10px;
+    border: 2px solid  grey;
+    text-align: center;
+    padding: 10px;
+    float: left;
+    margin: 5px;
+
+}
+p {
+    color: grey;
+}
+.clrfix {
+    clear: both;
+}
+.price-after {
+    float:left;
+    color: green;
+    padding: 0 10px 0 10px ;
+}
+.price-before {
+    float:left;
+    color: red;
+    text-decoration: line-through;
+    padding: 0 10px 0 10px ;
+}
+.btn1 {
+    background-color: blue;
+    color: white;
+    width: 70%;
+    border: none;
+    border-bottom-left-radius:5px ;
+   
+}
+.btn2{
+    background-color: white;
+    border: 2px solid blue;
+    border-bottom-right-radius: 4px;
+    cursor: pointer;
+}
+.fa-heart {
+    color: blue;
+    cursor: pointer;
+}
+.main {
+    margin-left: 90px;
+}
